@@ -337,6 +337,3 @@ Zuul выступает единой точкой входа, обрабатыв
 | | message | text | Текст уведомления | |
 | | status | enum | Статус доставки: pending, sent, failed | |
 | | sent_at | timestamp | Дата и время отправки | |
-
-![Database](images/Database2.0.png)
-![Database](images/Division.png)
